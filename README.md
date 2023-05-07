@@ -1,4 +1,4 @@
-# Prototypal Inheritance
+# Prototypal Inheritance c
 
 ## Learning Goals
 
